@@ -1,4 +1,4 @@
-ioop2017
+ioop2018
 ========
 
-Intro to Object Oriented Programming 2017
+Intro to Object Oriented Programming 2018
